@@ -1,0 +1,4 @@
+﻿id,code,status,date_due,client,client_contact,client_address,client_phone,client_email,client_website,client_comments,subtotal,discount,tax,total,comments,invoice_template,created,last_updated
+1,1,Unpaid,20/4/2020,Muhammad Asyraf Bin Shahran,,,,,,,0,0,0,0,,Corporate Clients,20/4/2020 11:57:47 pm by admin,20/4/2020 11:59:10 pm by admin
+2,1,Unpaid,20/4/2020,Muhammad Asyraf Bin Shahran,,,,,,,0,0,0,0,,Corporate Clients,20/4/2020 11:57:47 pm by admin,20/4/2020 11:59:10 pm by admin
+3,1,Unpaid,20/4/2020,Muhammad Asyraf Bin Shahran,,,,,,,0,0,0,0,,Corporate Clients,20/4/2020 11:57:47 pm by admin,20/4/2020 11:59:10 pm by admin
